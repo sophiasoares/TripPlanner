@@ -23,6 +23,6 @@
         <item>Cultural</item>
     </string-array>
 
-    <string name="google_maps_api_key">AIzaSyB8PyWfUx4WY5W1psXMrjYFAz9PLuAuVXE</string>
+    <string name="google_maps_api_key"> " insert your google api key here "</string>
 
 </resources>
