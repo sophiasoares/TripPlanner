@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TripPlanner</string>
+    <string-array name="destinations_array">
+        <item>Innsbruck</item>
+        <item>London</item>
+        <item>Rio de Janeiro</item>
+    </string-array>
+
+    <string-array name="innsbruck_types_array">
+        <item>Business</item>
+        <item>Mountain</item>
+        <item>Cultural</item>
+    </string-array>
+
+    <string-array name="london_types_array">
+        <item>Business</item>
+        <item>Cultural</item>
+    </string-array>
+
+    <string-array name="rio_types_array">
+        <item>Beach</item>
+        <item>Business</item>
+        <item>Cultural</item>
+    </string-array>
+
+    <string name="google_maps_api_key">AIzaSyB8PyWfUx4WY5W1psXMrjYFAz9PLuAuVXE</string>
+
+</resources>
