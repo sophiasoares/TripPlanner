@@ -1,5 +1,5 @@
 # TripPlanner
-Trip Planner simple app written in Java
+Trip Planner app written in Java
 
 The app is intended to help people to organise their trips beforehand.
 On the main menu, you can select your destination among the 3 possible options and the date of your trip. If the date is not valid, a popup window will show up with a warning.
